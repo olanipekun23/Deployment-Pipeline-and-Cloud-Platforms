@@ -173,9 +173,49 @@ jobs:
 
 3. ### Deployment Environment Configuration
 
+- STEPS IN PROJECT
+![proj directory](image.png)
+
+
+![workflow dir](image-1.png)
+
+- creating Iam user
+
+![iam user](image-2.png)
+
+![create user](image-3.png)
+
+![permission](image-4.png)
+
+- Review and Create
+
+![review and create](image-5.png)
+
+![create review](image-6.png)
+
+![user created](image-7.png)
+
 - Store sensitive keys in GitHub Secrets.
 
+![repository](image-8.png)
+
+![secret and variables](image-9.png)
+
+![secret key](image-10.png)
+
 - Use environment-specific workflows for Dev, Staging, and Production.
+
+
+![gh pages](image-11.png)
+
+![created](image-12.png)
+
+![success](image-13.png)
+
+
+![deployment](image-14.png)
+
+
 
 ### Troubleshooting and Resources
 
